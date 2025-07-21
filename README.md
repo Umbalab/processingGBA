@@ -76,6 +76,9 @@ To start any of the projects using the library:
 # Examples
 
 
+# License
+Processing.gba it is licensed under GNU General Public License v3.0 - see LICENSE (https://github.com/Umbalab/processingGBA/blob/main/LICENSE) for details.
+
 # Due credits and acknowledgements
 
 I thank the programmers who made their code available for consultation on personal and organizational websites and GitHub. I also thank the members of the Creative Programming group on Telegram for inspiring me to continue coding. I also thank Bianca Caroline Orsso for providing me with a welcoming environment for software development. I dedicate this library to our daughter Alice, who will be born in August 2025.
