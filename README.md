@@ -6,6 +6,7 @@ The main idea here was to develop a library with graphics functions for GBA Mode
 #
 
 #Due credits and acknowledgements
+
 I thank the programmers who made their code available for consultation on personal and organizational websites and GitHub. I also thank the members of the Creative Programming group on Telegram for inspiring me to continue coding. I also thank Bianca Caroline Orsso for providing me with a welcoming environment for software development. I dedicate this library to our daughter Alice, who will be born in August 2025.
 
 At no time did I receive any funding for this project. I developed it in a few late nights between October and November 2024 and have now resumed work in July 2025 to make it public before it disappears from my files. I haven't documented many things, and I don't really remember how certain things work, so unfortunately, I don't plan on giving the project much attention in the future. I hope community members will continue and improve certain things I couldn't achieve in time for release—like adding additional features or improving the software's performance.
