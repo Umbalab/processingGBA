@@ -65,7 +65,7 @@ To start any of the projects using the library:
 
 2. Open the MSys2 terminal by going to start>devkitPro>MSys2.
 
-3. In the terminal that opens, type the command "CD," which stands for "change directory," press space, drag the root folder we copied in the first step, or type the directory path, and press Enter.
+3. In the terminal that opens, type the command "CD", which stands for "change directory", press space, drag the root folder we copied in the first step, or type the directory path, and press Enter.
 
 4. Edit the "scene" file inside the "source" folder of the copied directory.
 
@@ -74,7 +74,11 @@ To start any of the projects using the library:
 6. Done, now we have a .gba file that was generated inside the directory we are creating :)
 
 # Examples
+The following screenshots are examples from the ProcessingGBA library. They are translations of examples from the original Processing Foundation IDE library:
 
+![](docs/images/ArrayObjects.gif) ![](docs/images/Bezier.gif) ![](docs/images/Brightness.gif)  ![](docs/images/Distance1D.gif) ![](docs/images/Distance2D.gif) ![](docs/images/DoubleRandom.gif) ![](docs/images/IntegersFloats.gif) ![](docs/images/RegularPolygon.gif) 
+
+![](docs/images/Array_Example.png) ![](docs/images/Array2D_Example.png) ![](docs/images/ColorVariables_Example.png) ![](docs/images/Conditionals1_Example.png) ![](docs/images/Conditionals2_Example.png) ![](docs/images/DatatypeConversion_Example.png)![](docs/images/EmbeddedIteration_Example.png) ![](docs/images/Iteration_Example.png) ![](docs/images/LogicalOperators_Example.png) ![](docs/images/PointsLines_Example.png) ![](docs/images/ShapePrimitives_Example.png) ![](docs/images/TrueFalse_Example.png) ![](docs/images/Variables_Example.png) ![](docs/images/VariableScope_Example.png)
 
 # License
 Processing.gba it is licensed under GNU General Public License v3.0 - see LICENSE (https://github.com/Umbalab/processingGBA/blob/main/LICENSE) for details.
