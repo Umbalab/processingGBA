@@ -1,7 +1,11 @@
 # Processing.gba
-A C language graphics library inspired by processing to create Game Boy Advance ROMs.
+Created by [Umbalab](https://umbalab.art/), processing.gba is a C language graphics library inspired by processing to create Game Boy Advance ROMs.
 
 The main idea here was to develop a library with graphics functions for GBA Mode 5. To achieve this, I adapted the writing style of some of the Processing functions and some of their examples.
+
+# Get in touch
+
+I believe we won't be modifying this library for a while, but feel free to use it, modify it, and contribute. If you do anything with the library, we'd also be happy to see the results. You can contact us via email (umbalabart@gmail.com) or Instagram (https://www.instagram.com/umba_lab/).
 
 # How to make things work properly
 
