@@ -19,8 +19,7 @@ Here we will basically need five (5) things:
 
 ## 1. Install DevKitPro
 
-The first thing to do, whether to make the library work normally or to create any GBA ROM, is to install DevKitPro:
-https://devkitpro.org/wiki/Getting_Started
+The first thing to do, whether to make the library work normally or to create any GBA ROM, is to [install DevKitPro] (https://devkitpro.org/wiki/Getting_Started).
 
 For Windows users, download and install the .exe from this repository:
 
@@ -33,7 +32,7 @@ https://github.com/devkitPro/pacman/releases/tag/v6.0.2
 ## 2. Install some IDE
 Editing code to work on a computer can be done using even a simple notepad program. The editing program depends largely on the programmer's preference. There are some relatively simple ones that are very good, such as Notepad++, Sublime, and many others. After testing multiple IDEs over the years, for beginners, I recommend starting with Visual Studio Code. While I'm not a proponent of proprietary software, I say this because Visual Studio can be installed on Windows, macOS, and Linux. It's easy to install, provides tools that can assist in the development of programs beyond the scope of this library, and is used by many companies.
 
-Visual Studio
+Visual Studio:
 
 https://visualstudio.microsoft.com/pt-br/
 
@@ -91,45 +90,23 @@ At no time did I receive any funding for this project. I developed it in a few l
 
 To be clear, I used the following as a basis for this library:
 
-The files provided by 3DSage:
+The files provided by [3DSage] (https://github.com/3DSage/GBA_Mode_5_Starter). Also, for the video tutorial developed by [3DSage] (https://www.youtube.com/watch?v=6ecgELrwAnQ&t=323s), which is very explanatory.
 
-https://github.com/3DSage/GBA_Mode_5_Starter
+[The Mode 5 example file from gbadev.org] (https://www.gbadev.org/demos.php?showinfo=323)
 
-For the tutorial developed by 3DSage, which is very explanatory:
+[Tonc (coranac) explanations] (https://www.coranac.com/tonc/text/bitmaps.htm)
 
-https://www.youtube.com/watch?v=6ecgELrwAnQ&t=323s
+[Patater explanations] (https://www.patater.com/gbaguy/gba/ch5.htm).
 
-The Mode 5 example file from gbadev.org:
+Explanations and tools contained in [gbadev] (https://gbadev.org/index.php).
 
-https://www.gbadev.org/demos.php?showinfo=323
+It wasn't effective by far, but some times, AI chatbots were assisted with [chatgpt3] (https://chatgpt.com/) and [Meta AI] (https://www.meta.ai/). At great cost, these chatbots helped me fix certain bugs in the code, as well as help me find alternatives for some of the functions, so they should be mentioned here.
 
-Tonc (coranac) explanations:
+All project typography was taken from the [Butano project] (https://github.com/GValiente/butano).
 
-https://www.coranac.com/tonc/text/bitmaps.htm
+The majority of the functions developed are based on processing.org [functions] (https://processing.org/reference/).
 
-Patater explanations:
-
-https://www.patater.com/gbaguy/gba/ch5.htm
-
-Explanations and tools contained in gbadev:
-
-https://gbadev.org/index.php
-
-It wasn't effective by far, but some times, AI chatbots were assisted with chatgpt3 (https://chatgpt.com/) and Meta AI (https://www.meta.ai/). At great cost, these chatbots helped me fix certain bugs in the code, as well as help me find alternatives for some of the functions, so they should be mentioned here.
-
-All project typography was taken from the Butano project:
-
-https://github.com/GValiente/butano
-
-The majority of the functions developed are based on processing.org functions:
-
-https://processing.org/reference/
-
-Likewise, the examples were adapted from the example library that comes with the Processing IDE download:
-
-https://processing.org/download
-
-
+Likewise, the examples were adapted from the example library that comes with the [Processing IDE download] (https://processing.org/download).
 
 Hugs from Curitiba (PR), Brazil,
 
