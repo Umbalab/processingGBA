@@ -63,7 +63,7 @@ The 3DSage tutorial explains how to use the program easily:
 https://youtu.be/6ecgELrwAnQ?si=F1-216dZbZ7yBPbU
 
 ## 5. The library
-Finally, to install the library, simply download the master from this directory (https://github.com/Umbalab/processingGBA/) unzip it and place the ProcessingGBA folder in the C: directory of your computer.
+Finally, to install the library, simply download the master from this directory (https://github.com/Umbalab/processingGBA/) unzip it and place the ProcessingGBA folder in the C: directory of your computer. Make sure the folder is named "ProcessingGBA" and is located in the C: directory (C:/ProcessingGBA).
 
 To start any of the projects using the library:
 1. Copy the template folder, or copy one of the examples found in the "Examples" folder and paste it into another directory on your computer.
